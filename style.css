@@ -1,32 +1,66 @@
 td, th {
 	border: 1px solid;
   }
-  h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
+  
 body {
-  background-color: powderblue;
+background-color:powderblue;
 }
-div{
-	border: 1px solid black;
-}
-div{
-	margin: 10px;
-}
-div{
-	display:block;
-}
-body{
-	font-family: Arial, sans-serif;
-}
+
 h1{
-	color:red;
+text-align:center;
+font-style:underline;
+color:orange;
 }
-img{
-	width:100px
+
+#Planets {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
-img{
-    height:100px
+
+.Mars {
+color:red;
+}
+
+.Jupiter {
+color:brown;
+}
+
+.Uranus {
+color:darkblue;
+}
+
+.Jupiter-Mass {
+color:red;
+font-weight:bold;
+}
+
+.Jupiter-Diameter {
+color:red;
+font-weight:bold;
+}
+
+.Earth-Density {
+color:red;
+font-weight:bold;
+}
+
+.Jupiter-Gravity {
+color:red;
+font-weight:bold;
+}
+
+.Jupiter-EV {
+color:red;
+font-weight:bold;
+}
+
+.Mars-RP {
+color:red;
+font-weight:bold;
+}
+
+.Mars-Day {
+color:red;
+font-weight:bold;
 }
