@@ -1,0 +1,32 @@
+td, th {
+	border: 1px solid;
+  }
+  h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+body {
+  background-color: powderblue;
+}
+div{
+	border: 1px solid black;
+}
+div{
+	margin: 10px;
+}
+div{
+	display:block;
+}
+body{
+	font-family: Arial, sans-serif;
+}
+h1{
+	color:red;
+}
+img{
+	width:100px
+}
+img{
+    height:100px
+}
